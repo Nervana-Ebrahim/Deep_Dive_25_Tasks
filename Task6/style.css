@@ -1,0 +1,13 @@
+#productsContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+  display: none;
+  width: 250px;
+  height: 140px;
+  background-color: #0d0e0e;
+  border-radius: 10px;
+  display: none;
+  padding: 20px;
+}
